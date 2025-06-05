@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "03 C++ 变量的使用", "03 C++ 变量的使用.vcxproj", "{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Debug|x64.ActiveCfg = Debug|x64
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Debug|x64.Build.0 = Debug|x64
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Debug|x86.Build.0 = Debug|Win32
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Release|x64.ActiveCfg = Release|x64
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Release|x64.Build.0 = Release|x64
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Release|x86.ActiveCfg = Release|Win32
+		{FD6CB5E4-836D-45CF-AE67-7B4C131EB996}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2C48DAC-6F1E-4F73-8B3B-BD73C9301DCA}
+	EndGlobalSection
+EndGlobal
